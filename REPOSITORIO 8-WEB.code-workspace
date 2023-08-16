@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../../REPOSITORIO 8-WEB"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "INDEX"
+  }
+}

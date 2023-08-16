@@ -1,0 +1,31 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+body{
+    background: #EFEFBB;
+    text-align: center;
+}
+
+.character:hover {
+    box-shadow: 0 0 15px rgba(131, 157, 179, 0.5); 
+    cursor: pointer;
+}
+
+
+
+
+.character{
+    background-color: white;
+    text-align: center;
+    overflow: hidden; 
+    text-overflow: ellipsis; 
+    white-space: nowrap;   
+}
+
+
